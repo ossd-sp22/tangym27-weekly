@@ -4,9 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Michelle :) !
 
-### More Information
+### At NYU
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a current junior majoring in CS. I was previously a CS tutor in Data Structures and worked at Stern briefly. I lived in New York my entire life so currently suffering from commuter life :( .
 
+### Hobbies
+
+Reading, playing Pokemon Go, and a disproportionate amount of listening to Taylor Swift.
+
+### Favorite Joke
+
+Think of tomorrow as the next day you'll eat nachos.
+If that never comes, then tomorrow is nacho lucky day.
