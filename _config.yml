@@ -13,7 +13,7 @@ description: CS NYU Junior, Spring 2022 OSSD student, and foodie!
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/mango.png
+avatar: /tangym27-weekly/images/mango.png
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Mango avatar
 
